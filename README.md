@@ -11,6 +11,20 @@ Under Development
   <li>and so on ...</li>
 </ul> 
 
+
+| Concept  | Description |
+| ---  | ---  | 
+| Abjad calculator  | Configuring SSL certificate on nginx webserver  |
+| phone number processing | Running Tomcat behind Nginx |
+| web scrapping |  simple link parser  |
+| web scrapping  | no starch press web site scrapper  |
+|web scrapper|simple python web scrapper|
+|words analyzer|plot words frequency|
+|jitter plotter|plot jitter in networks|
+|jiiter calculator|calculate jitter in python|
+|calculator| a simple calculator written in  tkinter|
+
+
 Still under development!
 
 

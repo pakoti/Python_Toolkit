@@ -1,0 +1,24 @@
+#libraries that used
+
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+import re
+
+#user inputs
+print="Please enter a url tobe parsed"
+user_input=str(input())
+
+req = Request(user_input)
+html_page = urlopen(req)
+
+soup = BeautifulSoup(html_page, "lxml")
+
+
+#links are collected
+links = []
+for link in soup.findAll('a'):
+    links.append(link.get('href'))
+
+#are links are collected
+
+print(links)
