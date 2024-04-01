@@ -6,8 +6,8 @@ Under Development
 
 | Concept  | Description |
 | ---  | ---  | 
-| Abjad calculator  | Configuring SSL certificate on nginx webserver  |
-| phone number processing | Running Tomcat behind Nginx |
+| Abjad calculator  | find abjad value of an araic word |
+| phone number processing | process large number of phone numbers |
 | web scrapping |  simple link parser  |
 | web scrapping  | no starch press web site scrapper  |
 |web scrapper|simple python web scrapper|
@@ -15,6 +15,7 @@ Under Development
 |jitter plotter|plot jitter in networks|
 |jiiter calculator|calculate jitter in python|
 |calculator| a simple calculator written in  tkinter|
+|python comment remover|remove all comments from a python scripts|
 
 
 Still under development!
